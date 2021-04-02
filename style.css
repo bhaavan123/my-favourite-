@@ -1,0 +1,65 @@
+.links{
+     float:left;
+    color:coral;
+    padding-top: 5px;
+    padding-bottom:5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-size: 20px;
+    border:2px solid #f01c41;
+}
+links:hover{
+    background-image: radial-gradient(#adfffe,#eb92fc,#facdf3);
+    font-size:25px;
+    text-decoration: underline;
+    color:deepskyblue;
+    font-family: cursive;
+}
+.menu{
+    list-style:none;
+    float:right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+    z-index: 10;
+    position:absolute;
+    
+}
+#Bio{
+    font-size: 42;
+    text-align: center;
+    padding: 50px;
+    background-image: linear-gradient(#adfffe,#facdf3);
+}
+.line{
+    height:6px;
+    color: black;
+    width:70px;
+    margin: 8px auto;
+}
+h1{
+    font-family:cursive;
+    font-size: 35px;
+    color: deeppink;
+}
+#welcome{
+    background-image: linear-gradient(#7ecff7,#b42ded);
+    text-align: center;
+    
+}
+p{
+    font-family: fantasy;
+    
+}
+img{
+    border-radius: 50%;
+    width:200px;
+}
+#ab{
+    font-size: 40px;
+    font-family: monospace;
+    color: darkviolet;
+}
+    
+    
